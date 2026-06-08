@@ -7,6 +7,7 @@ cd sv_project
 
 ### 2. Create a virtual environment
 python -m venv venv
+
 source venv/bin/activate  # on Windows: venv\Scripts\activate
 
 ### 3. Install dependencies
